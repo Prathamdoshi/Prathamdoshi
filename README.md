@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Prathamdoshi
-- 👀 I’m interested in making cool products.
-- 🌱 I’m currently learning python and deep learning.
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me pratham.doshi95@gmail.com
+## 👋 Hello, I'm Pratham
 
-<!---
-Prathamdoshi/Prathamdoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm on a passionate journey to become a software engineer and currently mastering Python. My coding adventure is fueled by a love for problem-solving and creating elegant solutions. I'm committed to achieving my goal of landing a software engineering position and contributing to the tech community as a software engineer.
+
+🚀 **Goals:**
+- Master Python and become proficient in software development.
+- Actively seeking software engineering opportunities to fulfill my dream role.
+- Open to collaborations and eager to learn from the best in the field.
+
